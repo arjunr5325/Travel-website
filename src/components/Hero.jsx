@@ -17,7 +17,7 @@ function Hero() {
           <p>What are you waiting for</p>
           <div className='hero-btns'>
             <Button className="btns" bStyle='btn--outline' bSize='btn--large' text="GET STARTED" to='/Signup'/>
-            <Button className="btns" bStyle='btn--outline' bSize='btn--large' text="WATCH TRAILER" to='/Signup' k={lol()}> </Button>
+            <Button className="btns" bStyle='btn--outline' bSize='btn--large' text="WATCH TRAILER" to='https://youtu.be/ahy5o5nT4oI?si=2kqmjV0-DhqIFN03' k={lol()}> </Button>
           </div>
 
 
